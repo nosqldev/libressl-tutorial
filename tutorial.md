@@ -1,5 +1,5 @@
 #TLS / SSL 开发指南
-(20150929~20150930)
+(20150929~20151006) [原文地址](https://github.com/nosqldev/libressl-tutorial/blob/master/tutorial.md)
 
 * [摘要](#_1)
 * [名词解释](#_2)
